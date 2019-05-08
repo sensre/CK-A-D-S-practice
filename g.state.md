@@ -1,4 +1,4 @@
-![](https://gaforgithub.azurewebsites.net/api?repo=CKAD-exercises/state&empty)
+
 # State Persistence (8%)
 
 ## Define volumes 
